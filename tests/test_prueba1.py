@@ -1,4 +1,4 @@
-from prueba1 import encontrarMayor
+from tests.prueba1 import encontrarMayor
 import pytest
 
 def test_encontrarMayor():
